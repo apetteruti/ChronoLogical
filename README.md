@@ -29,8 +29,8 @@ This full-stack project features user authentication (Passport), template handli
 
 ## Created By
 
-* [Kirthi Lynne](https://github.com/klynne23)
-* [Amanda Petteruti](https://github.com/apetteruti)
-* [Rafael Treviño](https://github.com/rafaeltrevino)
+* [Kirthi Lynne](https://github.com/klynne23): Timeline, Handlebars, CSS
+* [Amanda Petteruti](https://github.com/apetteruti): Passport implementation, client-side calls/rendering
+* [Rafael Treviño](https://github.com/rafaeltrevino): Database management, server-side calls, problem-solving, ReadMe writer
 
 This project was created as part of the Full-Stack Web Developer Coding Boot Camp program offered at the [George Washington University](https://bootcamp.cps.gwu.edu/coding/) in Arlington, Virginia.
